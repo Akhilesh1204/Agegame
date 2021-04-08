@@ -1,0 +1,38 @@
+.Container-1{
+    
+    padding: 1px;
+    border: 10px solid black;
+    text-align: center;
+     margin-top:50px;
+    
+    margin-right: 200px;
+    margin-left: 200px;
+    
+}
+.a-container-1{
+    padding: 1px;
+    display: flex;
+   border: 10px solid black;
+    flex-direction: row;
+    flex-wrap: wrap;
+justify-content: space-around;
+/*justify-content:space-evenly;*/
+
+
+}
+.clickme{
+    background-color: rgba(0, 0, 255, 0.61);
+    padding: 1px;
+    margin: 10px;
+
+}
+.reset{
+    background-color:rgba(255, 0, 0, 0.651);
+    padding: 1px;
+    margin: 10px;
+
+
+}
+
+
+
